@@ -15,6 +15,13 @@ def complete_task(tasks: list, index: int) -> bool:
         return True
     return False
 
+def validate_index(index_str: str, max_len: int) -> bool:
+    """Проверяет корректность введенного индекса."""
+    if index_str.isdigit():
+        idx = int(index_str)
+        return 0 <= idx < max_len
+    return False
+
 def main():
     tasks = []
     print("=== Менеджер задач ===")
