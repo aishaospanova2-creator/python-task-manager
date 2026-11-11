@@ -74,5 +74,5 @@
 
 # &#x20;  ```bash
 
-# &#x20;  git clone \[https://github.com/aishaospanova2-creator/python-task-manager.git](https://github.com/aishaospanova2-creator/python-task-manager.git)
+# &#x20;  git clone [\[https://github.com/aishaospanova2-creator/python-task-manager.git](https://github.com/aishaospanova2-creator/python-task-manager.git)](https://github.com/aishaospanova2-creator/python-task-manager.git)
 
